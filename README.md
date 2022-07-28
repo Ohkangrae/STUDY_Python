@@ -1,2 +1,1 @@
-# ai
- 
+# ✨STUDY_Python
